@@ -1,4 +1,6 @@
-## Hi' Diana
+## Hi' I.m Diana Mayasari
+
+#### My Skills
 
 ![Happy](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg)![happy](https://ziadoua.github.io/m3-Markdown-Badges/badges/ReactNative/reactnative3.svg) ![happy](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react3.svg)
 ![happy](https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php3.svg)![happy](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg) ![happy](https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs1.svg)![happy](https://ziadoua.github.io/m3-Markdown-Badges/badges/JSON/json1.svg) ![happy](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg)
